@@ -44,4 +44,9 @@ dependencies {
     testImplementation 'junit:junit:4.+'
     androidTestImplementation 'androidx.test.ext:junit:1.1.2'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
+
+    // Getting started with Material Components for Android
+    // https://material.io/develop/android/docs/getting-started
+    // https://maven.google.com/web/index.html#com.google.android.material:material
+    implementation 'com.google.android.material:material:1.2.1'
 }
